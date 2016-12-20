@@ -61,7 +61,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             </tr>
             <tr>
                 <td>6</td>
-                <td><b>Database Relationship</b></td>
+                <td><b>Database Relationship between three tables.</b></td>
                 <td>Create 3 tables. One is <b>Person</b> having attributes pid,pname. Second is <b>Color</b> having attributes cid,cname and Third table is <b>PersonColor</b> should contain there relationships. Create GUI which manage there relationships.</td>
                 <td><a href="<?php echo base_url() ?>Person_Color_Control">Example</a></td>
             </tr>
